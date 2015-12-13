@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pagekit
 
 [![Build Status](https://travis-ci.org/pagekit/pagekit.svg?branch=develop)](https://travis-ci.org/pagekit/pagekit)
@@ -78,3 +79,7 @@ Copyright [YOOtheme](http://www.yootheme.com) GmbH under the [MIT license](LICEN
 ## Credits
 
 [Half Dome Photo](http://www.youseethenew.com/landscape-outdoors/) by Brendan Lynch / [CC BY](http://creativecommons.org/licenses/by-nd/4.0/)
+=======
+# pagekit
+pagekit使用练习
+>>>>>>> 0e288e54b564fa65627671ae7a4c8ca7fd82fdf0
